@@ -6,5 +6,6 @@ Os sensores de presença mais comuns usam sensores PIR (Passive Infrared Sensor,
 
 O módulo contém o sensor PIR propriamente dito, composto internamente por duas faixas com material sensível ao infravermelho. Na parte externa, uma espécie de capa/tampa que na verdade é uma lente fresnel.
 
-#  Circuito
+# Conexão
+
 ![image](https://user-images.githubusercontent.com/127752095/224993065-058dc379-0b52-4d0a-87ef-9897cd8faeb6.png)
